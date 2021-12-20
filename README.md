@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/411321576.svg)](https://zenodo.org/badge/latestdoi/411321576)
+
 # SCRA-screening-ML
 
-This repository contains the code and database related to our manuscript in submission at Clinical Chemistry:
+This repository contains the code related to our manuscript in submission at Clinical Chemistry:
 
 **Machine learning to assist in large-scale, activity-based synthetic cannabinoid receptor agonist screening of serum samples**. 
 
