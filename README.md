@@ -2,7 +2,7 @@
 
 # SCRA-screening-ML
 
-This repository contains the code related to our manuscript in submission at Clinical Chemistry:
+This repository contains the code related to our published manuscript in Clinical Chemistry:
 
 **Machine learning to assist in large-scale, activity-based synthetic cannabinoid receptor agonist screening of serum samples**. 
 
